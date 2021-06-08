@@ -1,0 +1,241 @@
+%!Adobe-FontList 1.22
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/fred/Dropbox/My Mac (Frederick’s MacBook Pro)/Documents/CLIENTS/Hugh McElhenney Website/HUGH'S WEBSITE Folder/Document fonts/AdobeFnt22.lst
+FileLength:5679
+FileModTime:644211515
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Archer-Thin
+FamilyName:Archer
+StyleName:Thin
+MenuName:Archer Thin
+StyleBits:0
+WeightClass:265
+WidthClass:5
+AngleClass:0
+FullName:Archer Thin
+WritingScript:Roman
+OutlineFileName:/Users/fred/Dropbox/My Mac (Frederick’s MacBook Pro)/Documents/CLIENTS/Hugh McElhenney Website/HUGH'S WEBSITE Folder/Document fonts/Archer-Thin.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:483756
+FileModTime:630459128
+NameArray:0,Mac,4,Archer Thin
+NameArray:0,Win,1,Archer Thin
+NameArray:0,Win,16,Archer
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DINCondensed-Bold
+FamilyName:DIN Condensed
+StyleName:Bold
+MenuName:DIN Condensed
+StyleBits:2
+WeightClass:700
+WidthClass:3
+AngleClass:0
+FullName:DIN Condensed Bold
+WritingScript:Roman
+OutlineFileName:/Users/fred/Dropbox/My Mac (Frederick’s MacBook Pro)/Documents/CLIENTS/Hugh McElhenney Website/HUGH'S WEBSITE Folder/Document fonts/DIN Condensed Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:211644
+FileModTime:644211515
+NameArray:0,Mac,18,DIN Condensed Bold
+NameArray:0,Mac,4,DIN Condensed Bold
+NameArray:0,Win,1,DIN Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-Black
+FamilyName:Gotham
+StyleName:Black
+MenuName:Gotham Black
+StyleBits:0
+WeightClass:450
+WidthClass:5
+AngleClass:0
+FullName:Gotham Black
+WritingScript:Roman
+OutlineFileName:/Users/fred/Dropbox/My Mac (Frederick’s MacBook Pro)/Documents/CLIENTS/Hugh McElhenney Website/HUGH'S WEBSITE Folder/Document fonts/GOTHAM-BLACK.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:165580
+FileModTime:630459013
+NameArray:0,Mac,4,Gotham Black
+NameArray:0,Win,1,Gotham Black
+NameArray:0,Win,16,Gotham
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-Bold
+FamilyName:Gotham
+StyleName:Bold
+MenuName:Gotham Bold
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Gotham Bold
+WritingScript:Roman
+OutlineFileName:/Users/fred/Dropbox/My Mac (Frederick’s MacBook Pro)/Documents/CLIENTS/Hugh McElhenney Website/HUGH'S WEBSITE Folder/Document fonts/GOTHAM-BOLD.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:157328
+FileModTime:630459013
+NameArray:0,Mac,4,Gotham Bold
+NameArray:0,Win,1,Gotham Bold
+NameArray:0,Win,16,Gotham
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-Ultra
+FamilyName:Gotham
+StyleName:Ultra
+MenuName:Gotham Ultra
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Gotham Ultra
+WritingScript:Roman
+OutlineFileName:/Users/fred/Dropbox/My Mac (Frederick’s MacBook Pro)/Documents/CLIENTS/Hugh McElhenney Website/HUGH'S WEBSITE Folder/Document fonts/GOTHAM-ULTRA.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:161252
+FileModTime:630459015
+NameArray:0,Mac,4,Gotham Ultra
+NameArray:0,Win,1,Gotham Ultra
+NameArray:0,Win,16,Gotham
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:GothamXNarrow-Bold
+FamilyName:Gotham XNarrow
+StyleName:Bold
+MenuName:Gotham XNarrow Bold
+StyleBits:0
+WeightClass:400
+WidthClass:3
+AngleClass:0
+FullName:Gotham XNarrow Bold
+WritingScript:Roman
+OutlineFileName:/Users/fred/Dropbox/My Mac (Frederick’s MacBook Pro)/Documents/CLIENTS/Hugh McElhenney Website/HUGH'S WEBSITE Folder/Document fonts/GOTHAMXNARROW-BOLD.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:174524
+FileModTime:630459017
+NameArray:0,Mac,4,Gotham XNarrow Bold
+NameArray:0,Win,1,Gotham XNarrow Bold
+NameArray:0,Win,16,Gotham XNarrow
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:GothamBlack
+FamilyName:GothamBlack
+StyleName:Regular
+MenuName:GothamBlack
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:GothamBlack
+WritingScript:Roman
+OutlineFileName:/Users/fred/Dropbox/My Mac (Frederick’s MacBook Pro)/Documents/CLIENTS/Hugh McElhenney Website/HUGH'S WEBSITE Folder/Document fonts/GothamBlack.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:34896
+FileModTime:630463336
+NameArray:0,Mac,4,GothamBlack
+NameArray:0,Win,1,GothamBlack
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:GothamBold
+FamilyName:GothamBold
+StyleName:Regular
+MenuName:GothamBold
+StyleBits:2
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:GothamBold
+WritingScript:Roman
+OutlineFileName:/Users/fred/Dropbox/My Mac (Frederick’s MacBook Pro)/Documents/CLIENTS/Hugh McElhenney Website/HUGH'S WEBSITE Folder/Document fonts/GothamBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:34392
+FileModTime:630463336
+NameArray:0,Mac,4,GothamBold
+NameArray:0,Win,1,GothamBold
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:/Users/fred/Dropbox/My Mac (Frederick’s MacBook Pro)/Documents/CLIENTS/Hugh McElhenney Website/HUGH'S WEBSITE Folder/Document fonts/MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:634857122
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
